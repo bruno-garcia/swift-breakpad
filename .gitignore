@@ -1,2 +1,8 @@
 breakpad/src
 breakpad/.gclient_entries
+
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
